@@ -1,0 +1,241 @@
+[
+  {
+    "rec1_id": "61193c95fa69e75537b22ac4",
+    "rec1_2_map": [
+      {
+        "rec2_id": "61193c9510c1f9ee245bc971",
+        "rel_type": 0
+      },
+      {
+        "rec2_id": "61193c95bb2d7f461a540602",
+        "rel_type": 2
+      },
+      {
+        "rec2_id": "61193c95d04873774e851f78",
+        "rel_type": 0
+      },
+      {
+        "rec2_id": "61193c95078f8e734550ab55",
+        "rel_type": 0
+      }
+    ],
+    "val1": false,
+    "val2": 78.5039,
+    "val3": 19
+  },
+  {
+    "rec1_id": "61193c95ba48227bd8dd0b22",
+    "rec1_2_map": [
+      {
+        "rec2_id": "61193c95f5feb216c362526f",
+        "rel_type": 1
+      },
+      {
+        "rec2_id": "61193c954541468970482eb5",
+        "rel_type": 2
+      },
+      {
+        "rec2_id": "61193c95552335e3e8696427",
+        "rel_type": 1
+      },
+      {
+        "rec2_id": "61193c95e45ed3ceb2552adc",
+        "rel_type": 2
+      }
+    ],
+    "val1": true,
+    "val2": 200.8636,
+    "val3": -32
+  },
+  {
+    "rec1_id": "61193c95b6e31f5d5c798e2a",
+    "rec1_2_map": [
+      {
+        "rec2_id": "61193c95ce726c98579b0011",
+        "rel_type": 2
+      },
+      {
+        "rec2_id": "61193c95f587648d1633d43f",
+        "rel_type": 3
+      },
+      {
+        "rec2_id": "61193c956f0ad566df27bc6b",
+        "rel_type": 0
+      },
+      {
+        "rec2_id": "61193c95f769f8db8bc9b02c",
+        "rel_type": 2
+      }
+    ],
+    "val1": true,
+    "val2": 116.7415,
+    "val3": -5
+  },
+  {
+    "rec1_id": "61193c95edbeb0506114679f",
+    "rec1_2_map": [
+      {
+        "rec2_id": "61193c9507680bd3b9acd084",
+        "rel_type": 2
+      },
+        "rec2_id": "61193c950d259a6056dd1a3e",
+        "rel_type": 1
+      },
+      {
+        "rec2_id": "61193c95a37f2c2d023edf20",
+        "rel_type": 0
+      },
+      {
+        "rec2_id": "61193c95289a95d2608b3805",
+        "rel_type": 2
+      }
+    ],
+    "val1": true,
+    "val2": 430.3839,
+    "val3": -3
+  },
+  {
+    "rec1_id": "61193c9548841c7ffe95a6ce",
+    "rec1_2_map": [
+      {
+        "rec2_id": "61193c958105724e80023864",
+        "rel_type": 3
+      },
+      {
+        "rec2_id": "61193c954072585b440c612b",
+        "rel_type": 3
+      },
+      {
+        "rec2_id": "61193c95bd71ff5e8bea469e",
+        "rel_type": 3
+      },
+      {
+        "rec2_id": "61193c95532ac84777be93b9",
+        "rel_type": 2
+      }
+    ],
+    "val1": false,
+    "val2": 233.3026,
+    "val3": -45
+  },
+  {
+    "rec1_id": "61193c953610c6429802a3f5",
+    "rec1_2_map": [
+      {
+        "rec2_id": "61193c952397ff3a875023c9",
+        "rel_type": 2
+      },
+      {
+        "rec2_id": "61193c95b7bbbd6dfa01d8f2",
+        "rel_type": 0
+      },
+      {
+        "rec2_id": "61193c95327a319f10dc2cfb",
+        "rel_type": 2
+      },
+      {
+        "rec2_id": "61193c95f23c6f3f2fcab1bf",
+        "rel_type": 1
+      }
+    ],
+    "val1": false,
+    "val2": 100.6616,
+    "val3": 27
+  },
+  {
+    "rec1_id": "61193c9516ea886f9f1309d5",
+    "rec1_2_map": [
+      {
+        "rec2_id": "61193c95e0f047424c05536f",
+        "rel_type": 0
+      },
+      {
+        "rec2_id": "61193c956aa33468adfc9f8a",
+        "rel_type": 0
+      },
+      {
+        "rec2_id": "61193c9547a246e87a955586",
+        "rel_type": 0
+      },
+      {
+        "rec2_id": "61193c95e632d69fb703c000",
+        "rel_type": 1
+      }
+    ],
+    "val1": false,
+    "val2": 257.2133,
+    "val3": -42
+  },
+  {
+    "rec1_id": "61193c95f482ea636e7307b9",
+    "rec1_2_map": [
+      {
+        "rec2_id": "61193c95898ac5be8fa72946",
+        "rel_type": 0
+      },
+      {
+        "rec2_id": "61193c952dc95294d742f716",
+        "rel_type": 1
+      },
+      {
+        "rec2_id": "61193c9589346188ee4762b4",
+        "rel_type": 0
+      },
+      {
+        "rec2_id": "61193c95a4f4d7b18daf615e",
+        "rel_type": 2
+      }
+    ],
+    "val1": true,
+    "val2": 326.4045,
+    "val3": -3
+  },
+  {
+    "rec1_id": "61193c95f0b375f8cd3f4872",
+    "rec1_2_map": [
+      {
+        "rec2_id": "61193c95f33e01d47d71cfd0",
+        "rel_type": 2
+      },
+      {
+        "rec2_id": "61193c95dd51dcb0203f4572",
+        "rel_type": 0
+      },
+      {
+        "rec2_id": "61193c95148ef1b4b4cb20c8",
+        "rel_type": 3
+      },
+      {
+        "rec2_id": "61193c950d99d2975db22e68",
+        "rel_type": 2
+      }
+    ],
+    "val1": true,
+    "val2": 23.0869,
+    "val3": -4
+  },
+  {
+    "rec1_id": "61193c95da71a8a5dacf3075",
+    "rec1_2_map": [
+      {
+        "rec2_id": "61193c952fc115ded3a6d777",
+        "rel_type": 0
+      },
+      {
+        "rec2_id": "61193c95440f92b5eb53d559",
+        "rel_type": 3
+      },
+      {
+        "rec2_id": "61193c9513d4a5143b42cb6a",
+        "rel_type": 1
+      },
+      {
+        "rec2_id": "61193c95a2f19fe9679d4466",
+        "rel_type": 0
+      }
+    ],
+    "val1": false,
+    "val2": 495.2968,
+    "val3": 44
+  }
+]
